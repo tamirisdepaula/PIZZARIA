@@ -80,7 +80,7 @@ html {
     justify-content: center;
     align-items: center;
     background-image: linear-gradient(rgba(29, 29, 29, 0.8), rgba(63, 61, 61, 0.8)), url(../fundopizza.jpg);
-    background-position: center center;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: 50px;
